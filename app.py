@@ -11,7 +11,7 @@ keep_alive()
 ffmpeg_path = ffmpeg.get_ffmpeg_exe()
 
 # Замените 'YOUR_TELEGRAM_BOT_TOKEN' на токен вашего бота, полученный от BotFather
-TELEGRAM_BOT_TOKEN = '7419412806:AAF7lzBbGzlitQxltaBy88Ny0gycTA7cZNc'
+TELEGRAM_BOT_TOKEN = '7059160670:AAEccXx1Y5pVL2xKcPg8Go6u3U1k6deURBw'
 
 async def download_soundcloud_track(url: str, chat_id: int, context: ContextTypes.DEFAULT_TYPE):
     ydl_opts = {
