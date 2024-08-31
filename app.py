@@ -60,4 +60,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+    print("Бот запущен!!!")
     main()
