@@ -2,3 +2,4 @@ flask
 yt-dlp
 python-telegram-bot
 imageio-ffmpeg
+gunicorn
